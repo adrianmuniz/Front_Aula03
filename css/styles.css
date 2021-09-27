@@ -6,3 +6,8 @@
     color: #dc143c;
     font-size: 28px;
 }
+
+.carousel-inner,
+.carousel-item {
+    height: 80vh;
+}
